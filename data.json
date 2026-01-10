@@ -3,7 +3,9 @@
     "name": "이성현",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이성현",
     "contacts": {
-      "github": "https://github.com/KKTRKKT"
+      "github": "https://github.com/KKTRKKT",
+      "linkedin": "https://www.linkedin.com/in/성현-이-aa230018b/",
+      "instagram": "https://www.instagram.com/seonghyun4531/"
     },
     "is_major": "전공",
     "tech_stack": [
@@ -21,7 +23,8 @@
     "name": "이민규",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이민규",
     "contacts": {
-      "github": "https://github.com/7ayun"
+      "github": "https://github.com/7ayun",
+      "instagram": "https://www.instagram.com/leemingxx_"
     },
     "is_major": "비전공",
     "tech_stack": [],
@@ -50,7 +53,8 @@
     "name": "변예현",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=변예현",
     "contacts": {
-      "github": "https://github.com/yehyun207"
+      "github": "https://github.com/yehyun207",
+      "instagram": "https://www.instagram.com/ye.hyun__/"
     },
     "is_major": "전공",
     "tech_stack": [
@@ -84,7 +88,8 @@
     "name": "이현준",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이현준",
     "contacts": {
-      "github": "https://github.com/11dlguswns"
+      "github": "https://github.com/11dlguswns",
+      "linkedin": "https://www.linkedin.com/in/현준-이-1ba4b2279/"
     },
     "is_major": "전공",
     "tech_stack": [
@@ -127,7 +132,8 @@
     "name": "추창만",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=추창만",
     "contacts": {
-      "github": "https://github.com/chuchangman"
+      "github": "https://github.com/chuchangman",
+      "instagram": "https://www.instagram.com/chanxloooo/"
     },
     "is_major": "전공",
     "tech_stack": [],
@@ -140,7 +146,8 @@
     "name": "정현승",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=정현승",
     "contacts": {
-      "github": "https://github.com/jhs7942"
+      "github": "https://github.com/jhs7942",
+      "instagram": "https://www.instagram.com/saver7942"
     },
     "is_major": "",
     "tech_stack": [],
@@ -166,7 +173,9 @@
     "name": "전민혁",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=전민혁",
     "contacts": {
-      "github": "https://github.com/hyuli0520"
+      "github": "https://github.com/hyuli0520",
+      "linkedin": "https://www.linkedin.com/in/민혁-전-189151279/",
+      "instagram": "https://www.instagram.com/mh_j.0520/"
     },
     "is_major": "전공",
     "tech_stack": [
@@ -183,7 +192,8 @@
     "name": "신세영",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=신세영",
     "contacts": {
-      "github": "https://github.com/ssy0731"
+      "github": "https://github.com/ssy0731",
+      "instagram": "https://www.instagram.com/i_m_ssy"
     },
     "is_major": "비전공",
     "tech_stack": [],
@@ -196,7 +206,9 @@
     "name": "문은서",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=문은서",
     "contacts": {
-      "github": "https://github.com/MoonEunSeo"
+      "github": "https://github.com/MoonEunSeo",
+      "linkedin": "https://www.linkedin.com/in/telepathy0202/",
+      "instagram": "https://www.instagram.com/e.seo_0337/"
     },
     "is_major": "비전공",
     "tech_stack": [],
@@ -209,7 +221,8 @@
     "name": "이도연",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이도연",
     "contacts": {
-      "github": "https://github.com/doyeon789"
+      "github": "https://github.com/doyeon789",
+      "instagram": "https://www.instagram.com/7._d.yn"
     },
     "is_major": "전공",
     "tech_stack": [],
@@ -235,7 +248,8 @@
     "name": "김도균",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김도균",
     "contacts": {
-      "github": "https://github.com/tokyun02"
+      "github": "https://github.com/tokyun02",
+      "linkedin": "https://www.linkedin.com/in/tokyun"
     },
     "is_major": "전공",
     "tech_stack": [
@@ -277,7 +291,9 @@
   {
     "name": "김유찬",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김유찬",
-    "contacts": {},
+    "contacts": {
+      "instagram": "https://www.instagram.com/yn_chan__7"
+    },
     "is_major": "비전공",
     "tech_stack": [],
     "interest": "",
@@ -287,7 +303,9 @@
   {
     "name": "이규열",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이규열",
-    "contacts": {},
+    "contacts": {
+      "instagram": "https://www.instagram.com/leekyu0204"
+    },
     "is_major": "비전공",
     "tech_stack": [],
     "interest": "",
@@ -297,7 +315,9 @@
   {
     "name": "남윤호",
     "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=남윤호",
-    "contacts": {},
+    "contacts": {
+      "instagram": "https://www.instagram.com/yunhoo.0308"
+    },
     "is_major": "비전공",
     "tech_stack": [],
     "interest": "",
