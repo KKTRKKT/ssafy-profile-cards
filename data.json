@@ -1,0 +1,327 @@
+[
+  {
+    "name": "이성현",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이성현",
+    "contacts": {
+      "github": "https://github.com/KKTRKKT"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "Spring",
+      "Java",
+      "K8S",
+      "AWS"
+    ],
+    "interest": "Backend",
+    "experience": "6년차 Fullstck Developer",
+    "intro": "창업하고 싶어요",
+    "memo": ""
+  },
+  {
+    "name": "이민규",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이민규",
+    "contacts": {
+      "github": "https://github.com/7ayun"
+    },
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "18반 최고 높으신분"
+  },
+  {
+    "name": "신수지",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=신수지",
+    "contacts": {
+      "github": "https://github.com/3suji3"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "React",
+      "TypeScript"
+    ],
+    "interest": "Frontend",
+    "experience": "",
+    "intro": "",
+    "memo": "프론트엔드 개발, 혼밥러"
+  },
+  {
+    "name": "변예현",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=변예현",
+    "contacts": {
+      "github": "https://github.com/yehyun207"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "App Dev"
+    ],
+    "interest": "App Development",
+    "experience": "",
+    "intro": "",
+    "memo": "유일한 앱개발자"
+  },
+  {
+    "name": "정수진",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=정수진",
+    "contacts": {
+      "github": "https://github.com/tkznzl12"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "React",
+      "Next.js",
+      "Electron",
+      "TypeScript",
+      "SEO"
+    ],
+    "interest": "Frontend",
+    "experience": "4년차 Frontend Developer",
+    "intro": "",
+    "memo": "프론트엔드 개발 경력자, 쿼카"
+  },
+  {
+    "name": "이현준",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이현준",
+    "contacts": {
+      "github": "https://github.com/11dlguswns"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "Java",
+      "Kotlin",
+      "Spring"
+    ],
+    "interest": "Backend",
+    "experience": "",
+    "intro": "",
+    "memo": "백엔드 개발 희망, 게임 개발도 함"
+  },
+  {
+    "name": "오동헌",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=오동헌",
+    "contacts": {
+      "github": "https://github.com/LightM4R3"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "개발",
+    "experience": "",
+    "intro": "",
+    "memo": "전 백준 플레, 외주 장인"
+  },
+  {
+    "name": "정민서",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=정민서",
+    "contacts": {
+      "github": "https://github.com/nunanunna"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "창업 경험자"
+  },
+  {
+    "name": "추창만",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=추창만",
+    "contacts": {
+      "github": "https://github.com/chuchangman"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "SW",
+    "experience": "",
+    "intro": "",
+    "memo": "친구따라 강남옴"
+  },
+  {
+    "name": "정현승",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=정현승",
+    "contacts": {
+      "github": "https://github.com/jhs7942"
+    },
+    "is_major": "",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "판교개발자"
+  },
+  {
+    "name": "이동은",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이동은",
+    "contacts": {
+      "github": "https://github.com/dongeun621"
+    },
+    "is_major": "확인필요",
+    "tech_stack": [],
+    "interest": "개발",
+    "experience": "",
+    "intro": "",
+    "memo": "깃헙 내용이 없어요ㅠㅠ"
+  },
+  {
+    "name": "전민혁",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=전민혁",
+    "contacts": {
+      "github": "https://github.com/hyuli0520"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "C",
+      "C++",
+      "JAVA "
+    ],
+    "interest": "?",
+    "experience": "",
+    "intro": "",
+    "memo": "친화력 갑"
+  },
+  {
+    "name": "신세영",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=신세영",
+    "contacts": {
+      "github": "https://github.com/ssy0731"
+    },
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "8년차 직장인",
+    "intro": "",
+    "memo": "높으신 분, 면접관 출신, 만인의 샌드백"
+  },
+  {
+    "name": "문은서",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=문은서",
+    "contacts": {
+      "github": "https://github.com/MoonEunSeo"
+    },
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "보안개발자",
+    "intro": "",
+    "memo": "사이트 운영 경험, a.k.a 돌멩이"
+  },
+  {
+    "name": "이도연",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이도연",
+    "contacts": {
+      "github": "https://github.com/doyeon789"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "돌아이, 알고리즘 700문제 이상 품"
+  },
+  {
+    "name": "곽나혁",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=곽나혁",
+    "contacts": {
+      "github": "https://github.com/skgur07"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "개발",
+    "experience": "",
+    "intro": "",
+    "memo": "통뼈"
+  },
+  {
+    "name": "김도균",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김도균",
+    "contacts": {
+      "github": "https://github.com/tokyun02"
+    },
+    "is_major": "전공",
+    "tech_stack": [
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
+    "interest": "Fullstack Developer",
+    "experience": "1년차 Frontend Developer",
+    "intro": "",
+    "memo": "전 Toss 프론트엔드 개발자"
+  },
+  {
+    "name": "김성웅",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김성웅",
+    "contacts": {
+      "github": "https://github.com/sungwoong07"
+    },
+    "is_major": "확인필요",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "축구러버"
+  },
+  {
+    "name": "변도진",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=변도진",
+    "contacts": {
+      "github": "https://github.com/byundojin"
+    },
+    "is_major": "전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "",
+    "memo": "백준 플레"
+  },
+  {
+    "name": "김유찬",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김유찬",
+    "contacts": {},
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "GitHub 링크 미제출"
+  },
+  {
+    "name": "이규열",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=이규열",
+    "contacts": {},
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "GitHub 링크 미제출"
+  },
+  {
+    "name": "남윤호",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=남윤호",
+    "contacts": {},
+    "is_major": "비전공",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "GitHub 링크 미제출"
+  },
+  {
+    "name": "김창엽",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=김창엽",
+    "contacts": {},
+    "is_major": "확인필요",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "GitHub 링크 미제출"
+  },
+  {
+    "name": "백인기",
+    "profile_image": "https://api.dicebear.com/9.x/avataaars/svg?seed=백인기",
+    "contacts": {},
+    "is_major": "확인필요",
+    "tech_stack": [],
+    "interest": "",
+    "experience": "",
+    "intro": "GitHub 링크 미제출"
+  }
+]
