@@ -17,7 +17,8 @@
     "interest": "Backend",
     "experience": "6년차 Fullstck Developer",
     "intro": "창업하고 싶어요",
-    "memo": ""
+    "memo": "",
+    "class": 18
   },
   {
     "name": "이민규",
@@ -31,7 +32,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "18반 최고 높으신분"
+    "memo": "18반 최고 높으신분",
+    "class": 18
   },
   {
     "name": "신수지",
@@ -47,7 +49,8 @@
     "interest": "Frontend",
     "experience": "",
     "intro": "",
-    "memo": "프론트엔드 개발, 혼밥러"
+    "memo": "프론트엔드 개발, 혼밥러",
+    "class": 18
   },
   {
     "name": "변예현",
@@ -63,7 +66,8 @@
     "interest": "App Development",
     "experience": "",
     "intro": "",
-    "memo": "유일한 앱개발자"
+    "memo": "유일한 앱개발자",
+    "class": 18
   },
   {
     "name": "정수진",
@@ -82,7 +86,8 @@
     "interest": "Frontend",
     "experience": "4년차 Frontend Developer",
     "intro": "",
-    "memo": "프론트엔드 개발 경력자, 쿼카"
+    "memo": "프론트엔드 개발 경력자, 쿼카",
+    "class": 18
   },
   {
     "name": "이현준",
@@ -100,7 +105,8 @@
     "interest": "Backend",
     "experience": "",
     "intro": "",
-    "memo": "백엔드 개발 희망, 게임 개발도 함"
+    "memo": "백엔드 개발 희망, 게임 개발도 함",
+    "class": 18
   },
   {
     "name": "오동헌",
@@ -113,7 +119,8 @@
     "interest": "개발",
     "experience": "",
     "intro": "",
-    "memo": "전 백준 플레, 외주 장인"
+    "memo": "전 백준 플레, 외주 장인",
+    "class": 18
   },
   {
     "name": "정민서",
@@ -126,7 +133,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "창업 경험자"
+    "memo": "창업 경험자",
+    "class": 18
   },
   {
     "name": "추창만",
@@ -140,7 +148,8 @@
     "interest": "SW",
     "experience": "",
     "intro": "",
-    "memo": "친구따라 강남옴"
+    "memo": "친구따라 강남옴",
+    "class": 18
   },
   {
     "name": "정현승",
@@ -154,7 +163,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "판교개발자"
+    "memo": "판교개발자",
+    "class": 18
   },
   {
     "name": "이동은",
@@ -167,7 +177,8 @@
     "interest": "개발",
     "experience": "",
     "intro": "",
-    "memo": "깃헙 내용이 없어요ㅠㅠ"
+    "memo": "깃헙 내용이 없어요ㅠㅠ",
+    "class": 18
   },
   {
     "name": "전민혁",
@@ -186,7 +197,8 @@
     "interest": "?",
     "experience": "",
     "intro": "",
-    "memo": "친화력 갑, 잔디 열심히 심음"
+    "memo": "친화력 갑, 잔디 열심히 심음",
+    "class": 18
   },
   {
     "name": "신세영",
@@ -200,7 +212,8 @@
     "interest": "",
     "experience": "8년차 직장인",
     "intro": "",
-    "memo": "높으신 분, 면접관 출신, 만인의 샌드백"
+    "memo": "높으신 분, 면접관 출신, 만인의 샌드백",
+    "class": 18
   },
   {
     "name": "문은서",
@@ -215,7 +228,8 @@
     "interest": "",
     "experience": "보안개발자",
     "intro": "",
-    "memo": "사이트 운영 경험, a.k.a 돌멩이"
+    "memo": "사이트 운영 경험, a.k.a 돌멩이",
+    "class": 18
   },
   {
     "name": "이도연",
@@ -229,7 +243,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "돌아이, 알고리즘 700문제 이상 품"
+    "memo": "돌아이, 알고리즘 700문제 이상 품",
+    "class": 18
   },
   {
     "name": "곽나혁",
@@ -242,7 +257,8 @@
     "interest": "개발",
     "experience": "",
     "intro": "",
-    "memo": "통뼈"
+    "memo": "통뼈",
+    "class": 18
   },
   {
     "name": "김도균",
@@ -260,7 +276,8 @@
     "interest": "Fullstack Developer",
     "experience": "1년차 Frontend Developer",
     "intro": "",
-    "memo": "전 Toss 프론트엔드 개발자"
+    "memo": "전 Toss 프론트엔드 개발자",
+    "class": 18
   },
   {
     "name": "김성웅",
@@ -273,7 +290,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "축구러버"
+    "memo": "축구러버",
+    "class": 18
   },
   {
     "name": "변도진",
@@ -286,7 +304,8 @@
     "interest": "",
     "experience": "",
     "intro": "",
-    "memo": "백준 플레"
+    "memo": "백준 플레",
+    "class": 18
   },
   {
     "name": "김유찬",
@@ -298,7 +317,8 @@
     "tech_stack": [],
     "interest": "",
     "experience": "",
-    "intro": "GitHub 링크 미제출"
+    "intro": "GitHub 링크 미제출",
+    "class": 18
   },
   {
     "name": "이규열",
@@ -310,7 +330,8 @@
     "tech_stack": [],
     "interest": "",
     "experience": "",
-    "intro": "GitHub 링크 미제출"
+    "intro": "GitHub 링크 미제출",
+    "class": 18
   },
   {
     "name": "남윤호",
@@ -322,7 +343,8 @@
     "tech_stack": [],
     "interest": "",
     "experience": "",
-    "intro": "GitHub 링크 미제출"
+    "intro": "GitHub 링크 미제출",
+    "class": 18
   },
   {
     "name": "김창엽",
@@ -332,7 +354,8 @@
     "tech_stack": [],
     "interest": "",
     "experience": "",
-    "intro": "GitHub 링크 미제출"
+    "intro": "GitHub 링크 미제출",
+    "class": 18
   },
   {
     "name": "백인기",
@@ -342,6 +365,7 @@
     "tech_stack": [],
     "interest": "",
     "experience": "",
-    "intro": "GitHub 링크 미제출"
+    "intro": "GitHub 링크 미제출",
+    "class": 18
   }
 ]

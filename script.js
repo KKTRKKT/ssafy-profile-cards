@@ -14,10 +14,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const profiles = await response.json();
 
-            // Sort profiles by name (ascending)
-            profiles.sort((a, b) => a.name.localeCompare(b.name, 'ko-KR'));
+            // Check for class parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const selectedClass = urlParams.get('class');
 
-            renderProfiles(profiles);
+            if (selectedClass) {
+                // Filter by class
+                const filteredProfiles = profiles.filter(p => p.class == selectedClass);
+                // Sort profiles by name (ascending)
+                filteredProfiles.sort((a, b) => a.name.localeCompare(b.name, 'ko-KR'));
+
+                // Update title
+                document.querySelector('h1').textContent = `${selectedClass}반 프로필`;
+
+                // Add back button
+                const headerContainer = document.querySelector('.main-header .container');
+                if (!document.querySelector('.back-btn')) {
+                    const backBtn = document.createElement('a');
+                    backBtn.href = 'index.html';
+                    backBtn.className = 'back-btn';
+                    backBtn.innerHTML = '<i class="fa-solid fa-arrow-left"></i> 반 선택으로 돌아가기';
+                    // Insert before h1
+                    headerContainer.insertBefore(backBtn, headerContainer.firstChild);
+                }
+
+                renderProfiles(filteredProfiles);
+                document.getElementById('class-selector').style.display = 'none';
+            } else {
+                // Show class selection
+                renderClassSelector();
+                document.getElementById('card-grid').style.display = 'none';
+            }
 
         } catch (error) {
             console.error('Error fetching data:', error);
@@ -25,9 +52,36 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function renderClassSelector() {
+        const selectorContainer = document.getElementById('class-selector');
+        selectorContainer.innerHTML = '';
+        selectorContainer.style.display = 'grid'; // Ensure grid display
+
+        const title = document.createElement('h2');
+        title.className = 'section-title';
+        title.textContent = '반을 선택해주세요';
+        title.style.gridColumn = '1 / -1';
+        title.style.textAlign = 'center';
+        title.style.marginBottom = '2rem';
+        selectorContainer.appendChild(title);
+
+        for (let i = 1; i <= 20; i++) {
+            const btn = document.createElement('a');
+            btn.href = `?class=${i}`;
+            btn.className = 'class-btn';
+            btn.textContent = `${i}반`;
+            selectorContainer.appendChild(btn);
+        }
+    }
+
     function renderProfiles(profiles) {
         // Clear loading message
         gridElement.innerHTML = '';
+
+        if (profiles.length === 0) {
+            gridElement.innerHTML = '<div class="no-data">해당 반에 등록된 프로필이 없습니다.</div>';
+            return;
+        }
 
         profiles.forEach(profile => {
             const card = createProfileCard(profile);
